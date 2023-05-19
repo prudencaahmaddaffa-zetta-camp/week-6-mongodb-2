@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.1.2",
+    "mongoose-data-seed": "^2.1.6"
+  },
+  "mdSeed": {
+    "seedersFolder": "./seeders"
+  }
+}
